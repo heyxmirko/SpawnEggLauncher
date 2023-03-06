@@ -1,0 +1,9 @@
+name: SpawnEggLauncher
+version: '${project.version}'
+main: me.heyxmirko.spawnegglauncher.SpawnEggLauncher
+api-version: 1.19
+depend: [WorldGuard]
+commands:
+  egg:
+    description: Gives the player special eggs
+
