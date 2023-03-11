@@ -7,3 +7,6 @@ commands:
   egg:
     description: Gives the player special eggs
 
+permissions:
+  bukkit.command.tabcomplete: op
+
